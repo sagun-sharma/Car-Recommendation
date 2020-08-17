@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AutoOntology>
+<Manufacturer CompanyName="Maruti" Version="VDI" Price="1200000">
+<ModelName>Breeza</ModelName>
+<Engine>
+ <Capacity>1248 cc</Capacity> 
+ <HorsePower>89 bhp @ 4000 RPM</HorsePower>
+ <Torque>200 Nm @ 1750 RPM</Torque>
+ </Engine>
+<GearBox>5</GearBox>
+<TopSpeed>280</TopSpeed>
+<FuelEfficiencyInLtrs>48</FuelEfficiencyInLtrs>
+<MilageKMPL>21</MilageKMPL>
+<Petrol>true</Petrol>
+<Diesel>false</Diesel>
+<CNG>false</CNG>
+<LPG>true</LPG>
+<Hybrid>false</Hybrid>
+</Manufacturer>
+</AutoOntology>
